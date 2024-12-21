@@ -44,6 +44,14 @@ Overview The Track Parking Spot project uses four ultrasonic sensors to monitor 
 2. Connect each ultrasonic sensor to the ESP8266:
    - Trigger Pins: D1, D2, D5, D6
    - Echo Pins: D7, D8, D9, D10
+### Hardware view 1
+
+[![hardware_view1](https://github.com/prkshdas/Track-Parking-Spot-IIoT-IIT-Guwahati/blob/main/hardware_view1.jpg)]([link_url](https://github.com))
+
+### Hardware view 2
+
+[![hardware_view2](https://github.com/prkshdas/Track-Parking-Spot-IIoT-IIT-Guwahati/blob/main/hardware_view2.jpg)]([link_url](https://github.com))
+
 # Software Setup:
 1. Arduino IDE:
    - install required libraries (e.g., DHT, ESP8266WiFi).
