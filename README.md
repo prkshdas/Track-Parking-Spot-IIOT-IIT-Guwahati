@@ -56,7 +56,7 @@ Overview The Track Parking Spot project uses four ultrasonic sensors to monitor 
 4. Dashboard:
    - Place PHP files (db_config.php, fetch_data.php) in your web server’s directory.
    - Access the dashboard via your browser.
-# Website View
+# Website View:
 1. project_view1
 
 [![project_view1](https://github.com/prkshdas/Track-Parking-Spot-IIOT-IIT-Guwahati/blob/main/project_view1.jpg)]([link_url](https://github.com))
