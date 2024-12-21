@@ -1,4 +1,4 @@
-# Track Parking Spot IIOT IIT Guwahati
+# Track Parking Spot IIoT IIT Guwahati
 
 Overview The Track Parking Spot project uses four ultrasonic sensors to monitor parking spaces and track their availability. Additionally, the system captures environmental data such as temperature and humidity using a DHT11 sensor. The data is sent to a server and displayed on a dashboard for real-time tracking of parking spot status and environmental conditions.
 
